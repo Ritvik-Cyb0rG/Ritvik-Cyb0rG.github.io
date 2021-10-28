@@ -5,4 +5,4 @@ if [ "$#" -ne 3 ]; then
 		exit -1
 fi
 
-convert -font helvetica -fill white -pointsize 60 -gravity center -draw "text 0,300 '$1'" $2 $3 
+convert -font helvetica -fill black -pointsize 60 -gravity center -draw "text 0,300 '$1'" $2 $3 
