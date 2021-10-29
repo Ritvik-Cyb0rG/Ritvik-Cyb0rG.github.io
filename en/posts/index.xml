@@ -8,15 +8,6 @@
     <copyright>Copyright © 2016-{year} Razon Yang. All Rights Reserved.</copyright>
     <lastBuildDate>Thu, 28 Oct 2021 22:45:13 +0530</lastBuildDate><atom:link href="/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Day 5 Intro to Linux ROP</title>
-      <link>/en/posts/day-8-intro-linux-rop/</link>
-      <pubDate>Thu, 28 Oct 2021 22:45:13 +0530</pubDate>
-      
-      <guid>/en/posts/day-8-intro-linux-rop/</guid>
-      <description>Intro to Linux ROP Part 1  </description>
-    </item>
-    
-    <item>
       <title>Day 5 Intro to Linux Shellcoding</title>
       <link>/en/posts/day-5-intro-to-linux-shellcoding/</link>
       <pubDate>Thu, 28 Oct 2021 22:45:13 +0530</pubDate>
@@ -32,6 +23,15 @@
       
       <guid>/en/posts/day-6-intro-linux-stack-exploitaion/</guid>
       <description>Intro to Linux Stack Exploitation Part 1  Part 2  </description>
+    </item>
+    
+    <item>
+      <title>Day 8 Intro to Linux ROP</title>
+      <link>/en/posts/day-8-intro-linux-rop/</link>
+      <pubDate>Thu, 28 Oct 2021 22:45:13 +0530</pubDate>
+      
+      <guid>/en/posts/day-8-intro-linux-rop/</guid>
+      <description>Intro to Linux ROP Part 1  </description>
     </item>
     
     <item>
