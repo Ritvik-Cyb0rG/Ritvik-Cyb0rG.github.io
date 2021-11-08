@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2021-10-28T22:45:13+05:30</lastmod>
+  </url><url>
     <loc>/post/day-5-intro-to-linux-shellcoding/</loc>
     <lastmod>2021-10-28T22:45:13+05:30</lastmod>
   </url><url>
@@ -9,9 +12,6 @@
     <lastmod>2021-10-28T22:45:13+05:30</lastmod>
   </url><url>
     <loc>/post/day-8-intro-linux-rop/</loc>
-    <lastmod>2021-10-28T22:45:13+05:30</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2021-10-28T22:45:13+05:30</lastmod>
   </url><url>
     <loc>/post/</loc>
